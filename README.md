@@ -1,38 +1,27 @@
-# react-native-firework-sdk
+# react-native-awesome-module
+## 1.3.0--version
 
-Firework React Native SDK
+test
 
 ## Installation
 
 ```sh
-npm install react-native-firework-sdk
+npm install react-native-awesome-module
 ```
 
 ## Usage
 
 ```js
-import { multiply } from "react-native-firework-sdk";
+import AwesomeModule from "react-native-awesome-module";
 
 // ...
 
-const result = await multiply(3, 7);
+const result = await AwesomeModule.multiply(3, 7);
 ```
 
 ## Contributing
 
 See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
-
-## Running Example
-
-### Run iOS Example
-1. `npm run setup_ios`
-2. `cd example && npm start`
-3. open `example/ios/FireworkSdkExample.xcworkspace` using Xcode
-
-### Run Android Example
-1. `npm run setup_android`
-2. `cd example && npm start`
-3. open `example/android` using Android Studio
 
 ## License
 
