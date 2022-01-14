@@ -29,7 +29,7 @@
 
     <meta-data
       android:name="Firework:Appid"
-      android:value="a88f229debf60f9299816075b80b6071fe9e84a593aa3b223d47010328951826" />
+      android:value="" />
 
     <meta-data
       android:name="com.google.android.gms.ads.AD_MANAGER_APP"

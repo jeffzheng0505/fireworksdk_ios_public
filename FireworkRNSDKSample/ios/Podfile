@@ -9,7 +9,6 @@ target 'FireworkSdkExample' do
 
   use_react_native!(:path => config["reactNativePath"])
 
-  pod 'react-native-firework-sdk', :path => '../..'
 
   # Enables Flipper.
     #
