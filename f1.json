@@ -1,6 +1,6 @@
 {
   "name": "react-native-bogano-module",
-  "version": "5.0.1",
+  "version": "5.0.0",
   "description": "release branch",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
